@@ -1,0 +1,51 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  /* default colors 
+  --ifm-color-primary: #2e8555;
+
+  Indian Flag Colors
+  
+  Saffron: #FF9933
+  White: #FFFFFF
+  Green: #138808
+  Navy Blue: #000080
+
+  Other Options. Put in Docusaurus color picker to generate code.
+  --ifm-color-primary: #100df2;
+
+  Palette combination using coolors.co
+  #f3ca40, #f2a541, #f08a4b, #337ca0, #966b9d
+
+  */
+  --ifm-color-primary: #337ca0;
+  --ifm-color-primary-dark: #2e7090;
+  --ifm-color-primary-darker: #2b6988;
+  --ifm-color-primary-darkest: #245770;
+  --ifm-color-primary-light: #3888b0;
+  --ifm-color-primary-lighter: #3b8fb8;
+  --ifm-color-primary-lightest: #4c9ec6;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  /*
+  Other Options. Put in Docusaurus color picker to generate code.
+  --ifm-color-primary: #25c2a0;
+  */
+  --ifm-color-primary: #f2a541;
+  --ifm-color-primary-dark: #f09724;
+  --ifm-color-primary-darker: #ef9116;
+  --ifm-color-primary-darkest: #c9780e;
+  --ifm-color-primary-light: #f4b35e;
+  --ifm-color-primary-lighter: #f5b96c;
+  --ifm-color-primary-lightest: #f8ce97;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
