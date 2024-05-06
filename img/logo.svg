@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="logo (copy).svg"
+   inkscape:export-filename="/home/aj/Documents/Github/iep_assets/logo/iep1000.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1000px"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="475.17576"
+     inkscape:cy="428.50671"
+     inkscape:window-width="1848"
+     inkscape:window-height="1961"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer11"
+     inkscape:snap-global="true"
+     inkscape:snap-page="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="combined"
+     sodipodi:insensitive="true">
+    <circle
+       style="display:inline;fill:#ff9933;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-miterlimit:5"
+       id="circle1_orange"
+       cx="132.29167"
+       cy="132.29167"
+       r="132.29167" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.222247;stroke-miterlimit:5"
+       id="circle5_white"
+       cx="132.29167"
+       cy="50.535416"
+       r="50.535416"
+       sodipodi:insensitive="true" />
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.163512;stroke-miterlimit:5"
+       id="circle2_white"
+       cx="132.29167"
+       cy="182.82709"
+       r="81.756248" />
+    <g
+       style="fill:#06038d"
+       id="chakra"
+       transform="matrix(3.3752252,0,0,3.3752252,132.29167,132.29167)"
+       inkscape:label="chakra">
+      <circle
+         fill="none"
+         stroke="#06038d"
+         r="8.625"
+         stroke-width="1.25"
+         id="circle4200"
+         cx="0"
+         cy="0" />
+      <circle
+         r="1.6"
+         id="circle4202"
+         cx="0"
+         cy="0" />
+      <g
+         id="d">
+        <g
+           id="c">
+          <g
+             id="b">
+            <g
+               id="a">
+              <path
+                 d="M 0,-8 0.3,-3.18591 0,-0.80235 -0.3,-3.18591 Z"
+                 id="path4204" />
+              <circle
+                 transform="rotate(7.5)"
+                 r="0.34999999"
+                 cy="-8"
+                 id="circle4206"
+                 cx="0" />
+            </g>
+            <use
+               xlink:href="#a"
+               transform="scale(-1)"
+               id="use4209"
+               x="0"
+               y="0"
+               width="100%"
+               height="100%" />
+          </g>
+          <use
+             xlink:href="#b"
+             transform="rotate(15)"
+             id="use4212"
+             x="0"
+             y="0"
+             width="100%"
+             height="100%" />
+        </g>
+        <use
+           xlink:href="#c"
+           transform="rotate(30)"
+           id="use4215"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+      </g>
+      <use
+         xlink:href="#d"
+         transform="rotate(60)"
+         id="use4218"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+      <use
+         xlink:href="#d"
+         transform="rotate(120)"
+         id="use4220"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <circle
+       style="fill:#138808;fill-opacity:1;stroke:none;stroke-width:0.25622;stroke-miterlimit:5"
+       id="circle3_green"
+       cx="132.29167"
+       cy="214.04791"
+       r="50.535416"
+       sodipodi:insensitive="true" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.06983;stroke-miterlimit:5"
+       id="circle4_white"
+       cx="132.29167"
+       cy="233.3625"
+       r="31.220833" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.148265;stroke-miterlimit:5"
+       id="circle7_white"
+       cx="132.29167"
+       cy="182.82709"
+       r="19.314583"
+       sodipodi:insensitive="true" />
+    <path
+       style="display:inline;fill:#ff9933;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 101.07084,233.3625 31.22083,31.22083 31.22083,-31.22201 c 0.0484,-4.55964 -0.88676,-8.60393 -2.52184,-12.29143 l -28.699,28.6967 -28.699,-28.69667 c -1.32728,3.20834 -2.50559,6.98748 -2.52182,12.29258"
+       id="book"
+       inkscape:label="book"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+</svg>
