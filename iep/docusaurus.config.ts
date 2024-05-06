@@ -104,7 +104,7 @@ const config: Config = {
     image: 'img/favicon.ico',
     //Some meta tags for SEO
     metadata: [
-      {name: 'keywords', content: 'design, build, sell, blog, tutorial, architecture, engineering, construction, software'},
+      {name: 'keywords', content: 'india, education, blog, tutorial, architecture, engineering, science, arts, philosophy'},
       {name: 'twitter:card', content: 'summary_large_image'},
     ],
     //Algolia Doc Search
@@ -141,7 +141,7 @@ const config: Config = {
     // Color theme
     colorMode: {
       defaultMode: 'dark',
-      disableSwitch: false,
+      disableSwitch: true,
       // match user's system theme
       respectPrefersColorScheme: true,
     },
@@ -161,9 +161,9 @@ const config: Config = {
           position: 'left',
           label: 'Tutorial',
         },*/
-        {to: '/why', label: 'Why?', position: 'left'},
-        {to: '/how', label: 'How?', position: 'left'},
-        {to: '/what', label: 'What?', position: 'left'},
+        {to: '/why', label: 'Why', position: 'left'},
+        {to: '/how', label: 'How', position: 'left'},
+        {to: '/what', label: 'What', position: 'left'},
 
         {to: '/tutorial', label: 'Tutorial', position: 'right'},
         {to: '/blog', label: 'Blog', position: 'right'},
