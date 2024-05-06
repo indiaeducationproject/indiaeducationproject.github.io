@@ -161,6 +161,10 @@ const config: Config = {
           position: 'left',
           label: 'Tutorial',
         },*/
+        {to: '/why', label: 'Why?', position: 'left'},
+        {to: '/how', label: 'How?', position: 'left'},
+        {to: '/what', label: 'What?', position: 'left'},
+
         {to: '/tutorial', label: 'Tutorial', position: 'right'},
         {to: '/blog', label: 'Blog', position: 'right'},
         /*{
