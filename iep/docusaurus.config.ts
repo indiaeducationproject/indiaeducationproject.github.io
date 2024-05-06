@@ -153,6 +153,8 @@ const config: Config = {
       logo: {
         alt: 'India Education Project Logo',
         src: 'img/logo.svg',
+        width: 32,
+        height: 32,
       },
       items: [
         /*{
@@ -165,7 +167,7 @@ const config: Config = {
         {to: '/how', label: 'How', position: 'left'},
         {to: '/what', label: 'What', position: 'left'},
 
-        {to: '/tutorial', label: 'Tutorial', position: 'right'},
+        {to: '/donate', label: 'Donate', position: 'right'},
         {to: '/blog', label: 'Blog', position: 'right'},
         /*{
           href: 'https://github.com/facebook/docusaurus',
