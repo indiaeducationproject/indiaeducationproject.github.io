@@ -167,7 +167,7 @@ const config: Config = {
         {to: '/how', label: 'How', position: 'left'},
         {to: '/what', label: 'What', position: 'left'},
 
-        {to: '/donate', label: 'Donate', position: 'right'},
+        {to: '/donate', label: 'Donate', position: 'right', className: 'navbar-donate'},
         {to: '/blog', label: 'Blog', position: 'right'},
         /*{
           href: 'https://github.com/facebook/docusaurus',
