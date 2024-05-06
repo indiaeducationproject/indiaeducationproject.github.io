@@ -1,0 +1,29 @@
+# Referenced from https://github.com/JamesIves/github-pages-deploy-action
+name: Build and Deploy Website
+on:
+    push:
+        branches:
+            - main
+permissions:
+  contents: write
+
+jobs:
+    build-and-deploy:
+        runs-on: ubuntu-latest
+        concurrency: ci-${{ github.ref }}
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v3
+
+            - name: Install and Build
+              run: |
+                npm ci
+                npm run build
+              working-directory: ./iep
+
+            - name: Deploy
+              uses: JamesIves/github-pages-deploy-action@v4
+              with:
+                branch: gh-pages
+                folder: ./iep/build
+
